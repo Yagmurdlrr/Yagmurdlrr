@@ -6,3 +6,6 @@
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Yagmurdlrr&icon=0&color=3)](https://visitcount.itsvg.in)
